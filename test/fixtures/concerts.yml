@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  concert_id: 1
+  concert_name: MyString
+  concert_location: MyString
+  concert_datetime: 2014-12-08 04:46:33
+  host_id: 
+  band_id: 
+  conductor_id: 
+
+two:
+  concert_id: 1
+  concert_name: MyString
+  concert_location: MyString
+  concert_datetime: 2014-12-08 04:46:33
+  host_id: 
+  band_id: 
+  conductor_id: 
